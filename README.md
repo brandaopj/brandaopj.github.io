@@ -2,4 +2,5 @@
 
 Web Developer @[Efacec](http://www.http://www.efacec.pt/)
 
-:grinning::computer: 
+:grinning:
+:computer: 
