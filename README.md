@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+## Web Developer @[Efacec](http://www.http://www.efacec.pt/)
+
+Pedro Brandão [LinkdIn](https://www.linkedin.com/in/brandaopj/)
 
 You can use the [editor on GitHub](https://github.com/brandaopj/brandaopj.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
